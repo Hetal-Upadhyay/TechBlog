@@ -64,7 +64,7 @@
 
                         <div class="card-body">
                             <h5 class="card-title">Java Programming</h5>
-                            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                            <p class="card-text">Java is a widely used, platform-independent programming language known for its robustness, security, and versatility in building diverse applications.</p>
                             <a href="#" class="btn primary-background text-white">Read more</a>
                         </div>
                     </div>
@@ -73,8 +73,8 @@
                     <div class="card" >
 
                         <div class="card-body">
-                            <h5 class="card-title">Java Programming</h5>
-                            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                            <h5 class="card-title">Python Programming</h5>
+                            <p class="card-text">Python is a powerful and user-friendly programming language widely used for a variety of applications.</p>
                             <a href="#" class="btn primary-background text-white">Read more</a>
                         </div>
                     </div>
@@ -83,8 +83,8 @@
                     <div class="card" >
 
                         <div class="card-body">
-                            <h5 class="card-title">Java Programming</h5>
-                            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                            <h5 class="card-title">Web Development</h5>
+                            <p class="card-text">Web development involves creating and maintaining websites and web applications, encompassing both front-end design and back-end functionality.</p>
                             <a href="#" class="btn primary-background text-white">Read more</a>
                         </div>
                     </div>
@@ -102,8 +102,8 @@
                     <div class="card" >
 
                         <div class="card-body">
-                            <h5 class="card-title">Java Programming</h5>
-                            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                            <h5 class="card-title">App Development</h5>
+                            <p class="card-text">App development involves creating software applications for mobile devices or desktop computers, catering to diverse user needs and preferences.</p>
                             <a href="#" class="btn primary-background text-white">Read more</a>
                         </div>
                     </div>
@@ -112,8 +112,8 @@
                     <div class="card" >
 
                         <div class="card-body">
-                            <h5 class="card-title">Java Programming</h5>
-                            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                            <h5 class="card-title">Artificial Intelligence and Machine Learning</h5>
+                            <p class="card-text">AIML is a programming language used for creating chatbots and conversational AI systems.</p>
                             <a href="#" class="btn primary-background text-white">Read more</a>
                         </div>
                     </div>
@@ -122,8 +122,8 @@
                     <div class="card" >
 
                         <div class="card-body">
-                            <h5 class="card-title">Java Programming</h5>
-                            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                            <h5 class="card-title">Cyber Security</h5>
+                            <p class="card-text">Cybersecurity is the practice of protecting computer systems, networks, and data from digital threats and unauthorized access</p>
                             <a href="#" class="btn primary-background text-white">Read more</a>
                         </div>
                     </div>
